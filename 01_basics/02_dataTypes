@@ -1,0 +1,16 @@
+// alert(3+3) // wont work this way as we are not using browser, we are using Node
+
+// JS documentation is there in tc39.es
+
+console.log(3+3); 
+
+console.log("shashi")
+
+let name = "shashi"
+let age = 12
+let isLoggerIn = false
+
+
+console.log(null); // its a typeOf Object
+console.log(undefined); // its a typeOf undefined
+

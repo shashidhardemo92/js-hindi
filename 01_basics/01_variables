@@ -1,0 +1,16 @@
+const accountId = 144553
+let accountEmail = "ashsah@gmail.com"
+// var accountPassword = "12345" //DO NOT USE
+accountCity = "Hyd"
+let accountState ;
+
+// accountId = 2
+accountEmail = "asdf@asdh.com"
+accountPassword = "2323"
+accountCity = "Bank"
+
+console.log(accountId); //traditional console
+
+console.log(typeof [accountId, accountEmail, accountId, accountCity, accountState]);
+
+//Note: only use let not var as it has issue with block scope and funtional scope
